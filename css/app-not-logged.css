@@ -1,0 +1,10 @@
+#bg-overlay {
+    background: rgba(0, 0, 0, 0) url("../style/img/bg-img-2.png") repeat scroll 0 0;
+}
+/*
+#container.boxed-layout {
+	background-image: url("../style/img/bg-img-2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+*/
